@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Poppins";
+	font-smooth: antialiased;
+}
+body {
+	background: #111317 !important;
+}
+.title {
+	font-weight: 500;
+	font-size: 40px;
+	color: #f4f6f7;
+}
+.card {
+	padding: 5px;
+}
+.card-title {
+	font-size: 28px;
+}
+.form-group #addTxt {
+	outline: none !important;
+}
+textarea {
+	color: #fff !important;
+	padding: 10px;
+	font-size: 17px;
+}
+#addBtn {
+	width: 100%;
+	height: 58px;
+	background: #4561ff;
+	font-size: 17px;
+	font-weight: 500;
+}
+hr {
+	opacity: 0.2;
+	border-radius: 50px;
+}
+.notesElmText {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+#navbar {
+	padding: 30px !important;
+	background: #111317 !important;
+}
+.navbar-brand {
+	margin-left: 16px;
+	font-weight: 500;
+}
+.nav-item:nth-child(1) .nav-link {
+	margin-left: 20px;
+}
+.nav-link {
+	margin: 0 8px;
+}
